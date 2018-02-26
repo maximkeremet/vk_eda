@@ -11,6 +11,6 @@ Further on we dive into an EDA of available data, trying to identify if there an
 
 Lastly, we attempt to make a classifier to predict if the person shall be a frequent-poster either a low-poster.
 
-Check out the EDA [here](http://nbviewer.jupyter.org/github/maximkeremet/vk_eda/blob/master/vk_task_v3.ipynb)
+Check out the EDA [here].(http://nbviewer.jupyter.org/github/maximkeremet/vk_eda/blob/master/vk_task_v3.ipynb)
 
 All data is retrieved via [VK API](https://vk.com/dev/openapi) and is open-access, so no sensitive information was fetched.
